@@ -9,7 +9,7 @@
 - ...
 # Languages and tools 
 
-![Java]((https://github.com/oumaimaekdo/scrabble.git)https://github.com/oumaimaekdo/scrabble.git)
+![Java]((https://github.com/oumaimaekdo/scrabble.git)
 
 
 
