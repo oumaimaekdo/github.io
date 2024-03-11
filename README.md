@@ -9,7 +9,7 @@
 - ...
 # Languages and tools 
 
-[![Java](/home/etudiants/info/oelkhadraoui/Téléchargements/java-logo.png)]((https://github.com/oumaimaekdo/scrabble.git)https://github.com/oumaimaekdo/scrabble.git))
+[![Java]((https://github.com/oumaimaekdo/scrabble.git)https://github.com/oumaimaekdo/scrabble.git)
 
 
 
